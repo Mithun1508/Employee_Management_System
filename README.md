@@ -1,4 +1,6 @@
 # Employee-Management-System 
+![7debfbba-7670-4801-9d4f-fad70f0f4666](https://user-images.githubusercontent.com/93249038/215545052-88e9a412-7608-42e8-ba66-ab7af23aafe2.gif)
+
 
    Application to manage Employee Information. HR application to store all the employee information in a single place. This includes different modules like Employee Personal Information, Immigration information, Timsheet information, Payroll information etc.,
 
@@ -14,7 +16,6 @@
 
 The Program is completely based on OOPs concept.
 
-![Screenshot (108)](https://user-images.githubusercontent.com/93249038/215445130-9c319345-dbb4-4980-9d61-25ed032204c5.png)
 
 
 # Tech Stack Used
