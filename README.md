@@ -46,7 +46,3 @@ The Program is completely based on OOPs concept.
 14) jquery AJAX 
 
 
-# How to run ?
-For Compliation : javac EmployManagementSystem.java
-
-To Run Program : java EmployManagementSystem
