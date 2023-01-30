@@ -33,7 +33,7 @@ The Program is completely based on OOPs concept.
 
 8) css3
 
-9) Spring MVC 
+9) Spring MVC Framework 
 
 10)jnuit5 
 
@@ -43,6 +43,8 @@ The Program is completely based on OOPs concept.
   
 13) spring data rest 
 
-14) jquery AJAX 
+14) jquery AJAX  
+
+15) Google -guava 
 
 
