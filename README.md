@@ -1,4 +1,6 @@
-# Employee-Management-System
+# Employee-Management-System 
+
+   Application to manage Employee Information. HR application to store all the employee information in a single place. This includes different modules like Employee Personal Information, Immigration information, Timsheet information, Payroll information etc.,
 
  This repository consists of Java Program for Employee Management System. In this repository I have created a TUI program for Employee Management System which consists of 4 different operation.
 
