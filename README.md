@@ -33,9 +33,9 @@ The Program is completely based on OOPs concept.
 
 7)bootstrap4 
 
-8) css3
+8)css3
 
-9) Spring MVC Framework 
+9)Spring MVC Framework 
 
 10)jnuit5 
 
