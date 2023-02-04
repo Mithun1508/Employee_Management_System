@@ -50,4 +50,7 @@ The Program is completely based on OOPs concept.
 
 15) Google -guava 
 
+Software Methodologies(SDLC) Steps:
+
+![image_64ef334a-c001-4538-87ea-a5a4840b571c20230204_122201 (1)](https://user-images.githubusercontent.com/93249038/216754329-d2b04ebe-b60e-4073-b902-7ad6a3637e15.jpg)
 
