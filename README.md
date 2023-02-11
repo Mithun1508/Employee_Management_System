@@ -1,6 +1,9 @@
 # Employee-Management-System 
 ![7debfbba-7670-4801-9d4f-fad70f0f4666](https://user-images.githubusercontent.com/93249038/215545052-88e9a412-7608-42e8-ba66-ab7af23aafe2.gif)
 
+![Screenshot 2023-02-11 202752](https://user-images.githubusercontent.com/93249038/218265554-7f4d4d5b-b7e4-44ec-b835-c89856d1746a.png)
+
+
 Employee management using spring mvc, spring data jpa, ehcache, jsp, javascript and apache tomcat.
 
 Description: It's an employee management system, exposed to users as both web and rest service, with which users can perform basic crud operations and also search employees filtered using fields. This code can be used to understand how spring modules can be used to create an web application with client to backend and vice versa dataflow.
@@ -105,7 +108,7 @@ You can also create a system account who handles all the creation and deleting o
 
 ## TOPICS COVERED IN THIS PROJECT:
 
- ## 1) Used protocols : HTTP,UDP,TCP, Client-sever 
+ ## 1) Used protocols : HTTP,UDP,TCP, Client-sever(JSON)
    
  ## 2) How caching Working underneath the code 
 
@@ -121,7 +124,115 @@ You can also create a system account who handles all the creation and deleting o
  
  ## 8) Hibernate (ORM) CONFIGURATIONS CRUD 
  
+ ##  Added Java swing ,GUI, Serialization 
+ 
+## Setting up Dev
+Here's a brief intro about what a developer must do in order to start developing the project further:
 
+gh repo clone https://github.com/Mithun1508/Employee_Management_System
+cd Employee-Management-System/
+# Step 1: Deployee Database
+
+goto Xampp Control panel , open Apache and mysql server
+
+goto Crome and serach : http://localhost/phpmyadmin/
+
+create new data base name project3
+
+goto import navigater
+
+choose your Database file "project3" and upload there and click to Go
+
+# Step 2: Install JDK & Eclipse step by step
+
+no need Additional features
+# Step 3 : open Project Folder in Eclipse
+
+# Building
+Now, you need to change some line as per your connecton :
+
+# JDBC Connecter
+open .classpath file and change
+	<classpathentry kind="lib" path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"/>
+		<!-- path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"  --> 
+		<!-- set the path of where your mysql connecter location. like my current location
+		D:\College\Employee_Project\Employee-Management-System\mysql-connecter -->
+	<classpathentry kind="output" path="bin"/>
+
+JDK connecter
+open conn.java file and change
+	<classpathentry kind="lib" path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"/>
+		<!-- path="D:/College/Employee_Project/Employee-Management-System/mysql-connecter/mysql-connector.jar"  --> 
+		<!-- set the path of where your mysql connecter location. like my current location
+		D:\College\Employee_Project\Employee-Management-System\mysql-connecter -->
+	<classpathentry kind="output" path="bin"/>
+
+# you can change you code as per your Requirement.
+
+Deploying / Publishing
+
+Goto Front_Page.java and simple run file simple like normal java file.
+
+Style guide / Testing
+
+Run Step by Step As per your Requirements. We have provided Output images for you Understanding See in Output_images Folder.
+
+How to work Our Application .
+
+Welcome page
+
+Login page
+
+login with Username & Id
+
+Signup & Forgot password
+
+Home page
+
+Employee
+
+Salary
+
+Attendance
+
+About US
+
+Employee Panel
+
+Add Employee
+
+Update Employee
+
+View Employee
+
+Remove Employee
+
+Attendance Panel
+
+Fill Attendance
+
+View Attendance
+
+salary Panel
+
+Add Salary
+
+Update Salary
+
+Generate Payment slips
+
+About US Panel
+
+# Database
+Goto Xampp Control panel , open Apache and mysql server
+
+Goto Crome and serach : http://localhost/phpmyadmin/
+
+Create new data base name project3
+
+Goto import navigater
+
+Choose your Database file "project3" and upload there and click to Go
 
 ![Screenshot_2023-02-11-19-05-56-42_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262811-04843ba3-8655-445a-96f7-1749ad387c79.jpg)
 ![Screenshot_2023-02-11-19-06-15-90_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262823-30c86d73-fa56-4247-a087-f80f1463b4ff.jpg)
