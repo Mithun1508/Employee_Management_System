@@ -20,7 +20,7 @@ The Program is completely based on OOPs concept.
 
 # Tech Stack Used
 
-1)java 8   
+1)Java 8   
 
 2)spring-boot 
 
@@ -52,6 +52,23 @@ The Program is completely based on OOPs concept.
 
 ## TOPICS COVERED IN THIS PROJECT:
 
+ ## 1) Used protocols : HTTP,UDP,TCP, Client-sever 
+   
+ ## 2) How caching Working underneath the code 
+
+ ## 3) Database used : MYSQL 
+ 
+ ## 4) Tomcat installed in Machine, POSTMAN, ECLIPSE 
+ 
+ ## 5) JSP & Thymeleaf - fRONTEND PART
+ 
+ ## 6) SERVLET - BACKEND
+ 
+ ## 7) JDBC CONNECT THE DATABASE WITH java class
+ 
+ ## 8) Hibernate (ORM) CONFIGURATIONS CRUD 
+ 
+
 
 ![Screenshot_2023-02-11-19-05-56-42_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262811-04843ba3-8655-445a-96f7-1749ad387c79.jpg)
 ![Screenshot_2023-02-11-19-06-15-90_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262823-30c86d73-fa56-4247-a087-f80f1463b4ff.jpg)
@@ -66,7 +83,7 @@ The Program is completely based on OOPs concept.
 ![Screenshot_2023-02-11-19-11-57-93_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262681-66b9b3c5-8be3-47b6-a73f-2e14a1dd57e8.jpg)
 ![Screenshot_2023-02-11-19-13-12-63_f9ee0578fe1cc94de7482bd41accb329](https://user-images.githubusercontent.com/93249038/218262764-811e8abc-6cb4-4484-8356-a425d5214fea.jpg)
 
-# Software Methodologies(SDLC) AGILE Followed this pattern Order in which it was coded :
+# Software Methodologies(SDLC) AGILE :
 
 ![image_64ef334a-c001-4538-87ea-a5a4840b571c20230204_122201 (1)](https://user-images.githubusercontent.com/93249038/216754329-d2b04ebe-b60e-4073-b902-7ad6a3637e15.jpg)
 
